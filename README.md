@@ -17,21 +17,18 @@ hasta la atención médica y facturación.
 **Recepción**
 - Búsqueda de paciente por cédula con autocompletado
 - Registro sin documento cuando es necesario
-- Generación dinámica de horarios disponibles según médico: 
-  calcula slots automáticamente (ej. cada 30 min) entre el 
-  horario de inicio y fin de atención, y descarta los turnos 
-  ya ocupados en tiempo real
+- Generación dinámica de horarios disponibles según médico: calcula slots automáticamente (ej. cada 30 min) entre el horario de inicio y fin de atención, y descarta los turnos ya ocupados en tiempo real
 
 **Enfermería**
 - Registro de signos vitales y triaje
 - Sincronización en tiempo real con el médico
 
 **Médico**
-Autenticación y permisos vía GeneXus Access Manager (GAM)
--Gestión de estado del paciente:
--Atendido: consulta finalizada
--Ausente: el paciente no se presentó, se elimina de la lista del día
--Pasar para después: si el paciente no llega a tiempo, no pierde el turno — pasa al final de la cola y es atendido más tarde ese mismo día, sin afectar a los demás pacientes
+- Autenticación y permisos vía GeneXus Access Manager (GAM)
+- Gestión de estado del paciente:
+  - **Atendido:** consulta finalizada
+  - **Ausente:** el paciente no se presentó, se elimina de la lista del día
+  - **Pasar para después:** si el paciente no llega a tiempo, no pierde el turno — pasa al final de la cola y es atendido más tarde ese mismo día, sin afectar a los demás pacientes
 
 **Caja** *(en desarrollo)*
 - Apertura y cierre de caja
