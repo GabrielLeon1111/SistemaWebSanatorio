@@ -11,6 +11,8 @@ hasta la atención médica y facturación.
 <img width="1681" height="422" alt="image" src="https://github.com/user-attachments/assets/4aa988e1-8872-4a33-aa29-2650e1a84cab" />
 <img width="1488" height="912" alt="image" src="https://github.com/user-attachments/assets/5120e25a-ea59-4214-b9b7-01e54f48f974" />
 <img width="1910" height="902" alt="image" src="https://github.com/user-attachments/assets/52d5fd9a-1a55-4e34-9cdb-700390022003" />
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/04eae5f7-74d1-4e6e-8174-b61b3aeb1615" />
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/b8e9f58c-1ebf-4cee-a0bb-de7722a2e408" />
 
 ## Funcionalidades
 
