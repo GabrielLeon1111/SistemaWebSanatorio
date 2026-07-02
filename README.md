@@ -15,7 +15,8 @@ hasta la atención médica y facturación.
 ## Funcionalidades
 
 **Recepción**
-- Búsqueda de paciente por cédula con autocompletado
+-Registro de nuevo paciente si es su primera consulta.
+- Búsqueda de paciente por cédula con autocompletado si el paciente ya consulto alguna vez
 - Registro sin documento cuando es necesario
 - Generación dinámica de horarios disponibles según médico: calcula slots automáticamente (ej. cada 30 min) entre el horario de inicio y fin de atención, y descarta los turnos ya ocupados en tiempo real
 
