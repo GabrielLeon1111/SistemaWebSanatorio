@@ -7,6 +7,7 @@ hasta la atención médica y facturación.
 ## Capturas
 
 <img width="1432" height="927" alt="image" src="https://github.com/user-attachments/assets/a59f612b-f077-4990-bff1-340212ee02b8" />
+<img width="1365" height="945" alt="image" src="https://github.com/user-attachments/assets/115ac9de-2595-4758-b558-ef09debdc301" />
 <img width="1681" height="422" alt="image" src="https://github.com/user-attachments/assets/4aa988e1-8872-4a33-aa29-2650e1a84cab" />
 <img width="1488" height="912" alt="image" src="https://github.com/user-attachments/assets/5120e25a-ea59-4214-b9b7-01e54f48f974" />
 <img width="1910" height="902" alt="image" src="https://github.com/user-attachments/assets/52d5fd9a-1a55-4e34-9cdb-700390022003" />
