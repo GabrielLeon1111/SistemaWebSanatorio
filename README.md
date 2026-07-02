@@ -28,10 +28,10 @@ hasta la atención médica y facturación.
 
 **Médico**
 Autenticación y permisos vía GeneXus Access Manager (GAM)
-Gestión de estado del paciente:
-Atendido: consulta finalizada
-Ausente: el paciente no se presentó, se elimina de la lista del día
-Pasar para después: si el paciente no llega a tiempo, no pierde el turno — pasa al final de la cola y es atendido más tarde ese mismo día, sin afectar a los demás pacientes
+-Gestión de estado del paciente:
+-Atendido: consulta finalizada
+-Ausente: el paciente no se presentó, se elimina de la lista del día
+-Pasar para después: si el paciente no llega a tiempo, no pierde el turno — pasa al final de la cola y es atendido más tarde ese mismo día, sin afectar a los demás pacientes
 
 **Caja** *(en desarrollo)*
 - Apertura y cierre de caja
